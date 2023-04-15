@@ -19,4 +19,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - <a href="https://www.instagram.com/hafi_117/">Instagram</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nafishafi&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nafishafi&label=Profile%20Views&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
