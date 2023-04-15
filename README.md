@@ -17,3 +17,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-nafis-hafi-8067a9267/">LinkedIn</a>
 - <a href="https://www.instagram.com/hafi_117/">Instagram</a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nafishafi&icon=5&color=0)](https://visitcount.itsvg.in)
