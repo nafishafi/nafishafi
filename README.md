@@ -1,3 +1,15 @@
+<h1 align="center">
+  Hi, I'm <b>Nafis</b> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> 
+</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=00F726&width=435&lines=Welcome+to+my+GitHub+Page!;Interested+in+Mobile+Development;Follow+me+for+more!" alt="Typing SVG">
+  </a>
+</div>
+
+
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEybGh6amtzZGoxeWl6amJ1OWNuY2x3amxhOWZnb3FhNGp2ZWt4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" alt="Header Image" width="50%" />
 </p>
