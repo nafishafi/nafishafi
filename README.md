@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXEybGh6amtzZGoxeWl6amJ1OWNuY2x3amxhOWZnb3FhNGp2ZWt4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" alt="Header Image" width="50%" />
+</p>
+
 # 💫 About Me:
 Hi everyone!<br>Introduce my name is Muhammad Nafis Hafi.<br><br>I am a student at State University of Semarang.<br><br>If you are interested in getting to know me, please follow my LinkedIn account.
 
