@@ -16,8 +16,8 @@
 Hi everyone!<br>Introduce my name is Muhammad Nafis Hafi.<br><br>I am a student at State University of Semarang.<br><br>If you are interested in getting to know me, please follow my LinkedIn account.
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://instagram.com/hafi_117)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/muhammad-nafis-hafi/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-nafis-hafi/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hafi_117)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cpp,dart,flutter,kotlin,html,css,mysql,postman,firebase,git,github,vscode,androidstudio,discord&perline=14)](https://skillicons.dev)
